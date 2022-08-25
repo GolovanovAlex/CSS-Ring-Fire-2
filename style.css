@@ -22,4 +22,12 @@ body {
   left: 100px;
   right: 100px;
   bottom: 100px;
+  border: 20px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 50px #0f0, inset 0 0 50px #0f0;
+  -webkit-box-reflect: below 10px
+    linear-gradient(transparent, transparent, #0002);
+  animation: anima 5s linear infinite;
+}
+@keyframes anima {
 }
