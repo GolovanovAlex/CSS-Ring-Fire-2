@@ -3,3 +3,23 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}
+.circle {
+  position: relative;
+  width: 600px;
+  height: 600px;
+}
+.circle::before {
+  content: '';
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  right: 100px;
+  bottom: 100px;
+}
