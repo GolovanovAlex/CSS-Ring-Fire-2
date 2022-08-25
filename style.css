@@ -29,6 +29,9 @@ body {
     linear-gradient(transparent, transparent, #0002);
   animation: anima 5s linear infinite;
 }
+.circle:nth-child(2)::before {
+  animation-delay: -2.5s;
+}
 @keyframes anima {
   0% {
     box-shadow: 0 0 50px #0f0, inset 0 0 50px #0f0;
