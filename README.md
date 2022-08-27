@@ -14,7 +14,7 @@
 
 ## Info
 
-Создано на основе видео с Youtube канала [Encrypted Code](https://www.youtube.com/channel/UCzDF0RAnLkpkBzBJ8uENtlQ).   
+Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).   
 Для обучения и отработки работы с SVG и CSS.
 
 ---
