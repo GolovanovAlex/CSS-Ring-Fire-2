@@ -1,4 +1,4 @@
-# CSSRing Fire 2
+# CSS Ring Fire II
 
 ### Use Skills
 
@@ -8,38 +8,23 @@
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/VwQNjaM)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/zYapmgP)
 
 ![image-ring.gif](readme/ring.gif)
 
 ## Info
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).   
-Для обучения и отработки работы с SVG и CSS.
+
+Для обучения и отработки работы с **SVG**, **CSS** и **animation**.
 
 ---
+
 ## Contacts
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeConseiller_Alex)
-<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;"> 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GolovanovAlex)
 
 - <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
 
-
-
-
-
-  
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
+<sub> Made with </sub>💙
